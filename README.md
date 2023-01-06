@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Awesome Flutter project**
 
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/dev?id=5083898539193320748](https://play.google.com/store/apps/dev?id=5083898539193320748)
+- 👨‍💻 All of my projects are available at [https://cutt.ly/Y2vxyh7](https://cutt.ly/Y2vxyh7)
 
 - 💬 Ask me about **Flutter, Django, Python, Problem solving**
 
