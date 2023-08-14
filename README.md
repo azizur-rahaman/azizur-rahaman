@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **upwork**
 
-- 🌱 I’m currently learning **Flutter Bloc Pattern**
+- 🌱 I’m currently learning **Popular Software Architecture (MVVM,MV,Master-slave pattern,Event-bus pattern**
 
 - 👯 I’m looking to collaborate on **Awesome Flutter project**
 
