@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Flutter, Django, Python, Problem solving**
 
-- 📫 How to reach me **frazizur.rahaman@gmail.com**
+- 📫 How to reach me **info@quantumsoftwares.xyz**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/azizur-rahaman/](https://www.linkedin.com/in/azizur-rahaman/)
 
