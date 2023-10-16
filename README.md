@@ -7,6 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
+- 🎓 I am a student of computer science and engineering (Bachelor in Science)
 - 🔭 I’m currently working on **upwork**
 
 - 🌱 I’m currently learning **Popular Software Architecture (MVVM,MV,Master-slave pattern,Event-bus pattern**
