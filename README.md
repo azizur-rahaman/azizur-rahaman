@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/C5616AQGDi-YgZBTrtw/profile-displaybackgroundimage-shrink_350_1400/0/1633172605310?e=1678320000&v=beta&t=pv7-yPCbgiVr_r01LW4oCG3_tnJk6ujP8GITk2GlELA)](https://www.linkedin.com/in/azizur-rahaman/)
 <h1 align="center">Hi 👋, I'm Azizur Rahaman</h1>
-<h3 align="center">A passionate Mobile Application developer & problem solver from Bangladesh</h3>
+<h3 align="center">A passionate App developer & problem solver from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizur-rahaman&label=Profile%20views&color=0e75b6&style=flat" alt="azizur-rahaman" /> </p>
 
