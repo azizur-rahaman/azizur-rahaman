@@ -33,6 +33,53 @@
 </div>
 
 <hr/>
+
+<h2 align="center">🎓 Education</h2>
+<br/>
+<div align="center">
+  <p><strong>United International University</strong></p>
+  <p>Bachelor's degree, Computer Science (August 2023 - August 2025)</p>
+  <p><strong>Khagrachhari Cantonment Public School and College</strong></p>
+  <p>HSC, Web/Multimedia Management and Webmaster (2019 - 2021)</p>
+</div>
+
+<hr/>
+
+<h2 align="center">💼 Experience</h2>
+<br/>
+<div align="center">
+  <p><strong>Upwork</strong></p>
+  <p>⭐ Top Rated | Flutter Developer (May 2023 - Present)</p>
+  <p>🚀 Flutter Developer (May 2022 - Present)</p>
+  <p>📱 Mobile Application Developer (August 2019 - Present)</p>
+  <p><strong>Quantuamsoftwares</strong></p>
+  <p>👨‍💼 Founder & CEO (May 2023 - Present)</p>
+</div>
+
+<hr/>
+
+<h2 align="center">📜 Certifications</h2>
+<br/>
+<div align="center">
+  <p>Clean Code - Academind</p>
+  <p>FlutterFlow & Firebase Crash Course</p>
+  <p>Start the UX Design Process</p>
+  <p>Software Architecture: From Developer to Architect</p>
+  <p>Crash Course on Python</p>
+</div>
+
+<hr/>
+
+<h2 align="center">🏆 Honors & Awards</h2>
+<br/>
+<div align="center">
+  <p>🏆 Former District-level Champion at 41st National Science and Technology Week and Science Fair (2020)</p>
+  <p>🥈 Former District-level 2nd Champion at 42nd National Science and Technology Week and Science Fair (2021)</p>
+  <p>🏅 Selected at National Collegiate Programming Contest (NCPC 2023)</p>
+  <p>🎖️ Selected at IUT National ICT Fest</p>
+</div>
+
+<hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
