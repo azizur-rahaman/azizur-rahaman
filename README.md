@@ -1,122 +1,140 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azizur-rahaman&label=Profile%20views&color=0e75b6&style=flat" alt="azizur-rahaman" /> </p>
+# ✨ Azizur Rahman  
+*Software Engineer | CSE Student | Bangladesh*
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Azizur+Rahaman!;" />
-</h1>
+---
 
-<h3 align="center">A passionate software developer from Dhaka, Bangladesh</h3>
+## 👋 About Me  
+I’m a passionate software engineer focusing on building clean, scalable, and production-ready applications.  
+I work with **Flutter, Next.js, TypeScript, Sprint-Boot, Firebase, and cloud platforms**.  
+I love Full-Stack, system design, clean architecture, and solving real problems with code.
 
-<br/>
+---
+## 🛠️ Tech Stack  
 
-<div align="center">
- 
- 🔭 I’m currently working on **a meeting web app similar to Zoom**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+<p align="left">
 
-💬 Ask me about **Next.js, Flutter, Firebase... or anything [here](https://github.com/azizur-rahaman/azizur-rahaman/issues)**
+<!-- Flutter -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="48"/>
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+<!-- Dart -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="48"/>
 
-</div>
- 
-<div align="center"> 
-  <a href="mailto:frazizur.rahaman@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/azizur-rahaman" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://azizurrahaman.netlify.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
-</div>
+<!-- React -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48"/>
 
-<hr/>
+<!-- Next.js -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48"/>
 
-<h2 align="center">🎓 Education</h2>
-<br/>
-<div align="center">
-  <p><strong>United International University</strong></p>
-  <p>Bachelor's degree, Computer Science (August 2023 - August 2025)</p>
-  <p><strong>Khagrachhari Cantonment Public School and College</strong></p>
-  <p>HSC, Web/Multimedia Management and Webmaster (2019 - 2021)</p>
-</div>
+<!-- TypeScript -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48"/>
 
-<hr/>
+<!-- JavaScript -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48"/>
 
-<h2 align="center">💼 Experience</h2>
-<br/>
-<div align="center">
-  <p><strong>Upwork</strong></p>
-  <p>⭐ Top Rated | Flutter Developer (May 2023 - Present)</p>
-  <p>🚀 Flutter Developer (May 2022 - Present)</p>
-  <p>📱 Mobile Application Developer (August 2019 - Present)</p>
-  <p><strong>Quantuamsoftwares</strong></p>
-  <p>👨‍💼 Founder & CEO (May 2023 - Present)</p>
-</div>
+<!-- Spring Boot -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="48"/>
 
-<hr/>
+<!-- Node.js -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48"/>
 
-<h2 align="center">📜 Certifications</h2>
-<br/>
-<div align="center">
-  <p>Clean Code - Academind</p>
-  <p>FlutterFlow & Firebase Crash Course</p>
-  <p>Start the UX Design Process</p>
-  <p>Software Architecture: From Developer to Architect</p>
-  <p>Crash Course on Python</p>
-</div>
+<!-- Firebase -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="48"/>
 
-<hr/>
+<!-- Supabase -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="48"/>
 
-<h2 align="center">🏆 Honors & Awards</h2>
-<br/>
-<div align="center">
-  <p>🏆 Former District-level Champion at 41st National Science and Technology Week and Science Fair (2020)</p>
-  <p>🥈 Former District-level 2nd Champion at 42nd National Science and Technology Week and Science Fair (2021)</p>
-  <p>🏅 Selected at National Collegiate Programming Contest (NCPC 2023)</p>
-  <p>🎖️ Selected at IUT National ICT Fest</p>
-</div>
+<!-- AWS -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="48"/>
 
-<hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,html,css,tailwind,typescript,javascript,python,java,kotlin,git,github,figma,firebase,mysql,vscode" />
-</div>
+<!-- Docker -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48"/>
 
-<br/>
-<hr/>
+<!-- PostgreSQL -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48"/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/azizur-rahaman/azizur-rahaman/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+<!-- MySQL -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48"/>
 
-<hr/>
+<!-- MongoDB -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48"/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=azizur-rahaman&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=azizur-rahaman&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=azizur-rahaman&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+<!-- Prisma -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="48"/>
 
-<br/><br/>
+<!-- Git -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48"/>
 
-<hr/>
+<!-- Linux -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48"/>
 
-<br/>
+<!-- Tailwind CSS -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="48"/>
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+<!-- ChatGPT (OpenAI) -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="48"/>
 
-<br/>
+<!-- GitHub Copilot -->
+<img src="https://avatars.githubusercontent.com/u/11447590?s=200&v=4" height="48"/>
+
+</p>
+
+---
+
+## 🏆 Honors & Awards  
+
+### 🥈 **1st Runner Up — National Level Signature Hackathon (2025)**  
+**Organizer:** Programming Hero | **Team Leader & Backend (Golang)**  
+Achieved 1st Runner Up among 40 onsite teams nationwide.
+
+
+### 🏅 **Top 10 Finalist — IUT National ICT Fest OpenAPI Hackathon (2024)**  
+Recognized for creativity, teamwork, and API engineering.
+
+
+### 🏅 **Finalist — National Collegiate Programming Contest (NCPC 2023)**  
+Represented United International University as a 2nd-trimester CSE student.
+
+
+### 🥈 **District 2nd Champion — National Science & Technology Week 2021**  
+42nd National Science & Technology Week & Science Fair.
+
+
+### 🏆 **District Champion — National Science & Technology Week 2020**  
+41st National Science & Technology Week & Science Fair.
+
+---
+
+## 🚀 Featured Projects  
+
+### 🔹 Driving Trainer Platform  
+App + Trainer Panel + Admin Panel for booking driving instructors & managing payouts.  
+**Tech:** Next.js, React Native, PostgreSQL, Prisma, Node.js  
+
+### 🔹 E-Commerce Meat Ordering App  
+Supports cart, checkout, admin, and image upload using pre-signed URLs.  
+**Tech:** Flutter, Firebase, AWS S3  
+
+### 🔹 Organization Repo Dashboard  
+Displays all organization repositories sorted by most recent commit.  
+**Tech:** Next.js, TypeScript, GitHub API  
+
+---
+
+## 🎓 Education  
+
+**United International University**  
+BSc in Computer Science & Engineering (2023 – Present)
+
+---
+
+## 📫 Contact  
+
+📩 Email: *your_email@example.com*  
+🔗 LinkedIn: [linkedin.com/in/azizur-rahaman](https://www.linkedin.com/in/azizur-rahaman/)  
+🌐 Portfolio: *your_website_here*
+
+---
+
+## ⭐ Let’s Connect  
+Open to collaborations, open-source contributions, and creative projects.
+
