@@ -74,7 +74,7 @@ I love Full-Stack, system design, clean architecture, and solving real problems 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="48"/>
 
 <!-- GitHub Copilot -->
-<img src="https://avatars.githubusercontent.com/u/11447590?s=200&v=4" height="48"/>
+<img src="https://i.ibb.co.com/9HvkLPH7/github-copilot-logo-png-seeklogo-428029.png" height="48"/>
 
 </p>
 
