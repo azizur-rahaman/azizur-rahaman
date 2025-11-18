@@ -82,11 +82,11 @@ I love Full-Stack, system design, clean architecture, and solving real problems 
 
 ## 🏆 Honors & Awards  
 
-### 🥈 **1st Runner Up — National Level Signature Hackathon (2025) 🟠**  
+###🟠 🥈 **1st Runner Up — National Level Signature Hackathon (2025)**  
 **Organizer:** Programming Hero | **Team Leader & Backend (Golang)**  
 Achieved 1st Runner Up among 40 onsite teams nationwide.
 
-### 🏆 **District Champion — National Science & Technology Week 2020 🟠**  
+###🟠 🏆 **District Champion — National Science & Technology Week 2020**  
 41st National Science & Technology Week & Science Fair.
 
 ### 🏅 **Top 10 Finalist — IUT National ICT Fest OpenAPI Hackathon (2024)**  
