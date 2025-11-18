@@ -87,7 +87,7 @@ I love Full-Stack, system design, clean architecture, and solving real problems 
 Achieved 1st Runner Up among 40 onsite teams nationwide.
 
 ### 🏆 **District Champion — National Science & Technology Week 2020**  
-41st National Science & Technology Week & Science Fair.
+41st National Science & Technology Week & Science Fair. <br>
 ➖➖➖➖➖➖➖
 
 ### 🏅 **Top 10 Finalist — IUT National ICT Fest OpenAPI Hackathon (2024)**  
