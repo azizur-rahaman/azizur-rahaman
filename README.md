@@ -86,6 +86,9 @@ I love Full-Stack, system design, clean architecture, and solving real problems 
 **Organizer:** Programming Hero | **Team Leader & Backend (Golang)**  
 Achieved 1st Runner Up among 40 onsite teams nationwide.
 
+### 🏆 **District Champion — National Science & Technology Week 2020**  
+41st National Science & Technology Week & Science Fair.
+➖➖➖➖➖➖➖
 
 ### 🏅 **Top 10 Finalist — IUT National ICT Fest OpenAPI Hackathon (2024)**  
 Recognized for creativity, teamwork, and API engineering.
@@ -97,10 +100,6 @@ Represented United International University as a 2nd-trimester CSE student.
 
 ### 🥈 **District 2nd Champion — National Science & Technology Week 2021**  
 42nd National Science & Technology Week & Science Fair.
-
-
-### 🏆 **District Champion — National Science & Technology Week 2020**  
-41st National Science & Technology Week & Science Fair.
 
 ---
 
@@ -129,9 +128,9 @@ BSc in Computer Science & Engineering (2023 – Present)
 
 ## 📫 Contact  
 
-📩 Email: *your_email@example.com*  
+📩 Email: *frazizur.rahaman@gmail.com*  
 🔗 LinkedIn: [linkedin.com/in/azizur-rahaman](https://www.linkedin.com/in/azizur-rahaman/)  
-🌐 Portfolio: *your_website_here*
+🌐 Portfolio: [azizurrahaman.com](https://www.azizurrahaman.com)
 
 ---
 
