@@ -1,5 +1,5 @@
 # Azizur Rahman  
-**Frontend Engineer (Intern / Junior)**  
+**Frontend Engineer**  
 Next.js • TypeScript • React  
 📍 Bangladesh
 
